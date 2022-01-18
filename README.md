@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Mikrotik, Wireguard, Security**
 
-- 📝 I regularly write articles on [www.dawdad.de](www.dawdad.de)
+- 📝 I regularly write articles on [https://www.dawdad.de](https://www.dawdad.de)
 
 - 💬 Ask me about **Linux, Windows, SAP**
 
