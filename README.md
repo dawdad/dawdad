@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
 <h3 align="center">A passionate IT Architect from Germany</h3>
 
-- 🔭 I’m currently working on **Docker / Ansible **
+- 🔭 I’m currently working on **Docker / Ansible**
 
 - 🌱 I’m currently learning **Automation / n8n**
 
