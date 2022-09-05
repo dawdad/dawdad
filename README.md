@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
 <h3 align="center">A passionate IT Architect from Germany</h3>
 
-- 🔭 I’m currently working on **ZeroTrustNetworks**
+- 🔭 I’m currently working on **Docker / Ansible **
 
-- 🌱 I’m currently learning **SAP BTP, Kubernetes**
+- 🌱 I’m currently learning **Automation / n8n**
 
-- 👯 I’m looking to collaborate on **Docker, Kubernetes, SAP**
+- 👯 I’m looking to collaborate on **Docker, n8n, SAP**
 
-- 🤝 I’m looking for help with **Mikrotik, Wireguard, Security**
+- 🤝 I’m looking for help with **Mikrotik, Wireguard, Security, Webdesign**
 
 - 📝 I regularly write articles on [https://www.dawdad.de](https://www.dawdad.de)
 
-- 💬 Ask me about **Linux, Windows, SAP**
+- 💬 Ask me about **Linux, Windows, SAP, Mikrotik, VMWare, Azure, AWS**
 
 - 📫 How to reach me **tarekstark@dawdad.de**
 
