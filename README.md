@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Docker, n8n, SAP**
 
-- 🤝 I’m looking for help with **Mikrotik, Wireguard, Security, Webdesign**
+- 🤝 I’m looking for help with **Mikrotik, Wireguard, Security **
 
 - 📝 I regularly write articles on [https://www.dawdad.de](https://www.dawdad.de)
 
