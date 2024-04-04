@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.dawdad.de](https://www.dawdad.de)
 
-- 💬 Ask me about **Linux, Windows, Mikrotik, VMWare, Azure, AWS**
+- 💬 Ask me about **Linux, Windows, Mikrotik, Proxmox, VMWare, Azure, AWS**
 
 
 <h3 align="left">Languages and Tools:</h3>
